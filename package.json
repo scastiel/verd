@@ -1,0 +1,11 @@
+{
+  "name": "verd",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "verdaccio": "^3.11.6"
+  },
+  "scripts": {
+    "start": "verdaccio"
+  }
+}
