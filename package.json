@@ -6,6 +6,6 @@
     "verdaccio": "^3.11.6"
   },
   "scripts": {
-    "start": "verdaccio"
+    "start": "verdaccio -l my-verd.herokuapp.com:80"
   }
 }
